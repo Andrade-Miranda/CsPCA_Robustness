@@ -7,4 +7,4 @@ This repository presents experiments evaluating the robustness of significant pr
 
 - Gustavo Andrade-Miranda, Pedro Soto Vega, Kamilia Taguelmimt, Hong-Phuong Dang, Dimitris Visvikis, Julien Bert, Exploring transformer reliability in clinically significant prostate cancer segmentation: A comprehensive in-depth investigation, Computerized Medical Imaging and Graphics, Volume 118, 2024, 102459, ISSN 0895-6111, https://doi.org/10.1016/j.compmedimag.2024.102459. (https://www.sciencedirect.com/science/article/pii/S0895611124001368)
 
-# The Code will be released soon
+> **Note:** The code will be released soon. 🚀  
